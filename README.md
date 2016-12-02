@@ -8,3 +8,6 @@ $ tns run ios --emulator
 
 To set up environment use this tutorial:
 http://docs.nativescript.org/angular/start/quick-setup
+
+Built on top of:
+tns create input-demo --ng
